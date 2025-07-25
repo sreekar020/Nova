@@ -5,9 +5,9 @@ Nova is a playful and fun chatbot that helps you with anything — from casual c
 
 ## 🎬 Demo Coming Soon
 
-[![Watch Demo](https://drive.google.com/file/d/1PBd8IUlHWd7uGIkhehmxCn2YXDgMpKoo/view?usp=sharingw)
+[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1PBd8IUlHWd7uGIkhehmxCn2YXDgMpKoo/view?usp=sharingw)
 
-
+> Click the image above to watch the demo video on Google Drive.
 
 
 ---
