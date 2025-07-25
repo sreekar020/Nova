@@ -1,6 +1,6 @@
 # 🌟 Nova: Your Playful AI Chatbot
 
--Nova is a playful and fun chatbot that helps you with anything — from casual chats to coding queries. Built for smooth interaction and learning, Nova blends personality with productivity.
+Nova is a playful and fun chatbot that helps you with anything — from casual chats to coding queries. Built for smooth interaction and learning, Nova blends personality with productivity.
 ---
 
 ## 🎬 Demo Coming Soon
