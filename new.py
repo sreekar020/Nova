@@ -3,7 +3,7 @@ import os
 import requests
 
 # ✅ Set your Hugging Face token
-os.environ['HF_TOKEN'] = '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'
+os.environ['HF_TOKEN'] = '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'
 
 API_URL = "https://router.huggingface.co/together/v1/chat/completions"
 
