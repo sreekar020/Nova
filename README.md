@@ -63,9 +63,16 @@ Follow these steps to run Nova locally.
 
 
 2. **Create a Virtual Environment (optional but recommended)**:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 
+3. **Install Requirements**:
+    ```bash
+    pip install -r requirements.txt
 
+4. **Run** :
+     ```bash
+     python app.py
+5. **Open your browser at: http://127.0.0.1:5000**
