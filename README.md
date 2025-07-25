@@ -51,7 +51,7 @@ Unlike traditional bots, Nova is designed to simulate meaningful, thoughtful con
 
 Follow these steps to run Nova locally.
 
-### ✅ Prerequisites
+###  Prerequisites
 
 - Python 3.7+
 - `pip` (Python package manager)
@@ -76,3 +76,40 @@ Follow these steps to run Nova locally.
      ```bash
      python app.py
 5. **Open your browser at: http://127.0.0.1:5000**
+
+
+## 🛤️ Roadmap & Ideas
+
+- Add support for model switching (multiple LLMs)
+- Improve UX with streaming responses or animations
+- Add admin dashboard to review feedback
+- Optional cloud deployment via Hugging Face Spaces or Render
+
+---
+
+## 🤝 How to Contribute
+
+Whether you're a developer, designer, or just curious — contributions are welcome!
+
+**You Can Help With:**
+
+- 💻 Improving UI/UX  
+- 🧠 Enhancing prompt logic or adding NLP features  
+- 🐛 Fixing bugs or optimizing code  
+- 📝 Improving docs and adding usage guides  
+
+Fork the repo, make your changes, and open a Pull Request 🚀
+
+---
+
+## 📄 License
+
+MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 Acknowledgements
+
+- 🤗 Hugging Face for their amazing open-source models  
+- 🌐 Flask team for the simple and powerful web framework  
+- 💫 Your curiosity for exploring Nova  
