@@ -1,7 +1,6 @@
-# 🌟 Nova: A Smart AI Chat Assistant
+# 🌟 Nova: Your Playful AI Chatbot
 
-Nova is a lightweight, Flask-powered AI chatbot that leverages Hugging Face Transformers to deliver contextual, intelligent responses through a web interface using local HTML, JS, and Python. Designed with simplicity and clarity in mind, Nova is perfect for developers, learners, or anyone exploring LLMs in a web environment.
-
+Nova is a playful and fun chatbot that helps you with anything — from casual chats to coding queries. Built for smooth interaction and learning, Nova blends personality with productivity.
 ---
 
 ## 🎬 Demo Coming Soon
