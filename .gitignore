@@ -1,5 +1,17 @@
-__pycache__
+
+# Python Caches
+__pycache__/
 *.pyc
-__pycache__
-LICENSE
-.gitattributes
+*.pyo
+*.pyd
+
+# IDE/Editor Configuration
+.vscode/
+.idea/
+
+# Environment Variables
+.env
+
+
+# Log files
+*.log
